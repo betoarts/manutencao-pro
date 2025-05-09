@@ -145,7 +145,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Humberto Moura Neto
 
 - Email: humbertomoura.neto@gmail.com
-- GitHub: [seu-usuario-github]
+- GitHub: Betoarts
+- 💟 Faça uma doação chave PIX: ffa616a7-3756-400b-b328-135e5d545b89
 
 ## 🙏 Agradecimentos
 
